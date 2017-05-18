@@ -1,1 +1,9 @@
 c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\bin\Debug\ControleDeAtividade.exe.config
+c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\bin\Debug\ControleDeAtividade.exe
+c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\bin\Debug\ControleDeAtividade.pdb
+c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\obj\Debug\ControleDeAtividade.csprojResolveAssemblyReference.cache
+c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\obj\Debug\ControleDeAtividade.Form1.resources
+c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\obj\Debug\ControleDeAtividade.Properties.Resources.resources
+c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\obj\Debug\ControleDeAtividade.csproj.GenerateResource.Cache
+c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\obj\Debug\ControleDeAtividade.exe
+c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\obj\Debug\ControleDeAtividade.pdb
