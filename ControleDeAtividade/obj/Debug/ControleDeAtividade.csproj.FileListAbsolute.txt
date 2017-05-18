@@ -9,3 +9,4 @@ c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\C
 c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\obj\Debug\ControleDeAtividade.pdb
 c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\bin\Debug\Mono.Security.dll
 c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\bin\Debug\Npgsql.dll
+c:\users\11161100850\documents\visual studio 2015\Projects\ControleDeAtividade\ControleDeAtividade\obj\Debug\ControleDeAtividade.TelaGeral.resources
