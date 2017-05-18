@@ -1,0 +1,5 @@
+CREATE TABLE usuario(
+id serial,
+username varchar(100),
+password varchar(100)
+);
